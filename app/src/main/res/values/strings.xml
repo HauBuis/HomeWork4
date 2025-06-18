@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Bai4</string>
+    <string name="th_ng_tin_chi_ti_t_v_u_tr_ng_la_m_colosseum">Thông tin chi tiết về Đấu trường La Mã (Colosseum)…</string>
+    <string name="info_usa">
+    🇺🇸 Hoa Kỳ (United States of America):\n\n
+    - Diện tích: ~9.8 triệu km²\n
+    - Dân số: ~331 triệu người\n
+    - Thủ đô: Washington D.C.\n
+    - Tiền tệ: Đô la Mỹ (USD)\n\n
+    Hoa Kỳ là quốc gia phát triển bậc nhất thế giới với nền kinh tế, khoa học, công nghệ và văn hóa cực kỳ đa dạng.
+    Các thành phố nổi bật như New York, Los Angeles, Chicago đều mang ảnh hưởng sâu rộng đến toàn cầu.\n\n
+    Biểu tượng nổi tiếng: Tượng Nữ thần Tự do, Nhà Trắng, Grand Canyon, Hollywood,…
+</string>
+    <string name="info_uk">
+    "🇬🇧 Vương quốc Anh (United Kingdom):\n\n" +
+    "- Bao gồm: Anh, Scotland, Wales và Bắc Ireland\n" +
+    "- Dân số: ~67 triệu người\n" +
+    "- Thủ đô: London\n" +
+    "- Tiền tệ: Bảng Anh (GBP)\n\n" +
+    "Vương quốc Anh là quốc gia có lịch sử lâu đời và ảnh hưởng toàn cầu trong lĩnh vực chính trị, kinh tế và văn hóa. " +
+    "Là quê hương của chế độ quân chủ lập hiến, Anh quốc nổi tiếng với Hoàng gia Anh, tháp đồng hồ Big Ben và các trường đại học danh tiếng như Oxford và Cambridge.\n\n" +
+    "Biểu tượng nổi bật: Cung điện Buckingham, Tháp London, cầu Tower Bridge, Stonehenge,…"
+    </string>
+    <string name="info_Italy">
+         "🇮🇹 Ý (Italia):\n\n" +
+    "- Vị trí: Nam Âu, hình dáng giống chiếc ủng\n" +
+    "- Dân số: ~60 triệu người\n" +
+    "- Thủ đô: Rome\n" +
+    "- Tiền tệ: Euro (EUR)\n\n" +
+    "Ý là đất nước nổi tiếng với lịch sử La Mã cổ đại, nghệ thuật thời Phục Hưng, và ẩm thực trứ danh. " +
+    "Rome, Venice, Florence là những thành phố thu hút hàng triệu du khách mỗi năm.\n\n" +
+    "Ẩm thực: Pizza, pasta, gelato, espresso\n" +
+    "Biểu tượng nổi bật: Đấu trường La Mã (Colosseum), tháp nghiêng Pisa, Nhà thờ Thánh Peter,…"
+    </string>
+    <string name="info_obama">
+                "🇺🇸 Barack Obama là tổng thống thứ 44 của Hoa Kỳ, phục vụ từ 2009–2017.\n\n" +
+                        "- Ngày sinh: 4 tháng 8, 1961\n" +
+                        "- Quê quán: Hawaii, Hoa Kỳ\n" +
+                        "- Đảng: Dân chủ\n" +
+                        "- Thành tựu: Luật cải cách y tế Obamacare, Nobel Hòa bình 2009\n\n" +
+                        "Ông là tổng thống da màu đầu tiên của Mỹ và được đánh giá cao về tài hùng biện và chính sách đối ngoại ôn hòa."</string>
+    <string name="info_merkel">
+    "🇩🇪 Angela Merkel là thủ tướng Đức từ 2005–2021, nổi bật với phong cách lãnh đạo vững vàng.\n\n" +
+    "- Ngày sinh: 17 tháng 7, 1954\n" +
+    "- Quê quán: Hamburg, Đức\n" +
+    "- Đảng: CDU (Liên minh Dân chủ Cơ đốc giáo)\n" +
+    "- Thành tựu: Dẫn dắt EU qua khủng hoảng nợ, chính sách nhập cư nhân đạo\n\n" +
+    "Bà được xem là người phụ nữ quyền lực nhất thế giới trong nhiều năm."</string>
+<string name="info_trudeau">
+    "🇨🇦 Justin Trudeau là thủ tướng Canada từ 2015 đến nay.\n\n" +
+    "- Ngày sinh: 25 tháng 12, 1971\n" +
+    "- Quê quán: Ottawa, Canada\n" +
+    "- Đảng: Tự do\n" +
+    "- Thành tựu: Chính sách bình đẳng giới, biến đổi khí hậu, hợp pháp hóa cần sa\n\n" +
+    "Ông là con trai của cố thủ tướng Pierre Trudeau và nổi bật với hình ảnh hiện đại, cởi mở."</string>
+
+
+
+
+    <string name="todo">ảnh của tổng thống</string>
+    <string name="th_ng_tin_chi_ti_t_v_uk">Thông tin chi tiết về UK...</string>
+    <string name="loading">Loading...</string>
+</resources>
