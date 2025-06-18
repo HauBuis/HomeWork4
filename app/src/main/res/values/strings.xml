@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Bai4</string>
+    <string name="th_ng_tin_chi_ti_t_v_u_tr_ng_la_m_colosseum">Thông tin chi tiết về Đấu trường La Mã (Colosseum)…</string>
+    <string name="info_usa">
+    🇺🇸 Hoa Kỳ (United States of America):\n\n
+    - Diện tích: ~9.8 triệu km²\n
+    - Dân số: ~331 triệu người\n
+    - Thủ đô: Washington D.C.\n
+    - Tiền tệ: Đô la Mỹ (USD)\n\n
+    Hoa Kỳ là quốc gia phát triển bậc nhất thế giới với nền kinh tế, khoa học, công nghệ và văn hóa cực kỳ đa dạng.
+    Các thành phố nổi bật như New York, Los Angeles, Chicago đều mang ảnh hưởng sâu rộng đến toàn cầu.\n\n
+    Biểu tượng nổi tiếng: Tượng Nữ thần Tự do, Nhà Trắng, Grand Canyon, Hollywood,…
+</string>
+    <string name="info_uk">
+    "🇬🇧 Vương quốc Anh (United Kingdom):\n\n" +
+    "- Bao gồm: Anh, Scotland, Wales và Bắc Ireland\n" +
+    "- Dân số: ~67 triệu người\n" +
+    "- Thủ đô: London\n" +
+    "- Tiền tệ: Bảng Anh (GBP)\n\n" +
+    "Vương quốc Anh là quốc gia có lịch sử lâu đời và ảnh hưởng toàn cầu trong lĩnh vực chính trị, kinh tế và văn hóa. " +
+    "Là quê hương của chế độ quân chủ lập hiến, Anh quốc nổi tiếng với Hoàng gia Anh, tháp đồng hồ Big Ben và các trường đại học danh tiếng như Oxford và Cambridge.\n\n" +
+    "Biểu tượng nổi bật: Cung điện Buckingham, Tháp London, cầu Tower Bridge, Stonehenge,…"
+    </string>
+    <string name="info_Italy">
+         "🇮🇹 Ý (Italia):\n\n" +
+    "- Vị trí: Nam Âu, hình dáng giống chiếc ủng\n" +
+    "- Dân số: ~60 triệu người\n" +
+    "- Thủ đô: Rome\n" +
+    "- Tiền tệ: Euro (EUR)\n\n" +
+    "Ý là đất nước nổi tiếng với lịch sử La Mã cổ đại, nghệ thuật thời Phục Hưng, và ẩm thực trứ danh. " +
+    "Rome, Venice, Florence là những thành phố thu hút hàng triệu du khách mỗi năm.\n\n" +
+    "Ẩm thực: Pizza, pasta, gelato, espresso\n" +
+    "Biểu tượng nổi bật: Đấu trường La Mã (Colosseum), tháp nghiêng Pisa, Nhà thờ Thánh Peter,…"
+    </string>
+    <string name="info_obama">
+                "🇺🇸 Barack Obama là tổng thống thứ 44 của Hoa Kỳ, phục vụ từ 2009–2017.\n\n" +
+                        "- Ngày sinh: 4 tháng 8, 1961\n" +
+                        "- Quê quán: Hawaii, Hoa Kỳ\n" +
+                        "- Đảng: Dân chủ\n" +
+                        "- Thành tựu: Luật cải cách y tế Obamacare, Nobel Hòa bình 2009\n\n" +
+                        "Ông là tổng thống da màu đầu tiên của Mỹ và được đánh giá cao về tài hùng biện và chính sách đối ngoại ôn hòa."</string>
+    <string name="info_rishi">
+    "🇬🇧 Rishi Sunak là Thủ tướng Vương quốc Anh từ năm 2022, đại diện cho Đảng Bảo thủ.\n\n" +
+    "- Ngày sinh: 12 tháng 5, 1980\n" +
+    "- Quê quán: Southampton, Anh\n" +
+    "- Đảng: Conservative (Bảo thủ)\n" +
+    "- Thành tựu: Ổn định nền tài chính sau đại dịch COVID-19, thúc đẩy cải cách nhập cư và tăng trưởng kinh tế\n\n" +
+    "Ông là người gốc Ấn đầu tiên giữ chức Thủ tướng Anh, và từng là Bộ trưởng Tài chính dưới thời Boris Johnson."
+</string>
+
+    <string name="info_meloni">
+    "🇮🇹 Giorgia Meloni là Thủ tướng Ý từ năm 2022, là nữ thủ tướng đầu tiên trong lịch sử nước này.\n\n" +
+    "- Ngày sinh: 15 tháng 1, 1977\n" +
+    "- Quê quán: Rome, Ý\n" +
+    "- Đảng: Fratelli d’Italia (Anh em nước Ý)\n" +
+    "- Thành tựu: Cải cách hệ thống thuế, kiểm soát nhập cư, củng cố quan hệ đối tác châu Âu\n\n" +
+    "Bà là một nhân vật nổi bật trong phe bảo thủ châu Âu, với quan điểm mạnh mẽ về chủ quyền và truyền thống gia đình."
+</string>
+    <string name="info_museum_usa">
+    🇺🇸 Smithsonian là hệ thống bảo tàng lớn nhất thế giới, tọa lạc chủ yếu tại Washington D.C.\n\n
+    - Thành lập: 1846\n
+    - Gồm: 21 bảo tàng và trung tâm nghiên cứu\n
+    - Nổi bật: Bảo tàng Lịch sử Tự nhiên, Bảo tàng Không gian và Hàng không\n\n
+    Smithsonian mang đến trải nghiệm văn hóa, khoa học và lịch sử miễn phí cho hàng triệu khách tham quan mỗi năm.
+</string>
+    <string name="info_museum_uk">
+    🇬🇧 British Museum tại London là bảo tàng lịch sử và khảo cổ hàng đầu thế giới.\n\n
+    - Thành lập: 1753\n
+    - Hiện vật: hơn 8 triệu, từ khắp nơi trên thế giới\n
+    - Nổi bật: Đá Rosetta, tượng Ai Cập cổ đại, nghệ thuật Hy Lạp – La Mã\n\n
+    Là nơi lưu giữ tinh hoa di sản nhân loại qua hàng nghìn năm lịch sử.
+</string>
+    <string name="info_museum_italy">
+    🇮🇹 Bảo tàng Vatican nằm tại Rome, Ý, là nơi lưu giữ những kiệt tác nghệ thuật thiêng liêng.\n\n
+    - Thành lập: 1506\n
+    - Nổi bật: Trần nhà nguyện Sistine của Michelangelo, phòng Raphael\n
+    - Tác phẩm: hơn 70,000, trong đó 20,000 được trưng bày\n\n
+    Vatican Museums là điểm đến không thể thiếu cho người yêu nghệ thuật và văn hóa Phục Hưng.
+</string>
+    <string name="info_wonder_usa">
+    🇺🇸 Grand Canyon là hẻm núi đá tự nhiên khổng lồ tại bang Arizona, Hoa Kỳ.\n\n
+    - Chiều dài: hơn 440 km, sâu gần 1,800 m\n
+    - Hình thành: hàng triệu năm qua bởi dòng sông Colorado\n
+    - Trạng thái: Công viên quốc gia, Di sản Thế giới UNESCO\n\n
+    Grand Canyon là một kỳ quan địa chất hùng vĩ, thu hút hàng triệu du khách mỗi năm.
+</string>
+    <string name="info_wonder_uk">
+    🇬🇧 Stonehenge là di tích cự thạch thời tiền sử nổi tiếng ở Anh.\n\n
+    - Vị trí: Wiltshire, Anh\n
+    - Niên đại: khoảng 3000 – 2000 TCN\n
+    - Cấu trúc: vòng tròn đá khổng lồ được dựng bằng tay nguyên thủy\n\n
+    Stonehenge là biểu tượng huyền bí về văn minh cổ đại, với nhiều giả thuyết về thiên văn và nghi lễ.
+</string>
+    <string name="info_wonder_italy">
+    🇮🇹 Colosseum tại Rome là đấu trường La Mã nổi tiếng nhất thế giới.\n\n
+    - Xây dựng: khoảng năm 70–80 SCN\n
+    - Sức chứa: 50,000 – 80,000 khán giả\n
+    - Mục đích: tổ chức các trận đấu võ sĩ, săn thú, biểu diễn công cộng\n\n
+    Đây là biểu tượng của Đế chế La Mã và là một trong 7 kỳ quan thế giới hiện đại.
+</string>
+    <string name="image_desc">Ảnh minh họa bảo tàng hoặc kỳ quan</string>
+    <string name="wonder_usa_desc">Grand Canyon – kỳ quan thiên nhiên tại Mỹ</string>
+    <string name="wonder_uk_desc">Stonehenge – kỳ quan cổ đại tại Anh</string>
+    <string name="wonder_italy_desc">Colosseum – kỳ quan La Mã tại Ý</string>
+
+
+
+
+
+    <string name="todo">ảnh của tổng thống</string>
+    <string name="th_ng_tin_chi_ti_t_v_uk">Thông tin chi tiết về UK...</string>
+    <string name="loading">Loading...</string>
+</resources>
